@@ -6,7 +6,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class SpringBootActiviti11Application {
    
-	/**spring 主方法  branch readme **/
+	/**spring 主方法  master **/
 	public static void main(String[] args) {
 		SpringApplication.run(SpringBootActiviti11Application.class, args);
 	}
