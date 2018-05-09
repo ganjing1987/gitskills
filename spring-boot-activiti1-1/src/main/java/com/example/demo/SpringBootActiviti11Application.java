@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class SpringBootActiviti11Application {
    
 
-	/**spring 主方法   master **/
+	/**spring 主方法   master ***/
 	public static void main(String[] args) {
 		SpringApplication.run(SpringBootActiviti11Application.class, args);
 	}
