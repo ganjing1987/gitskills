@@ -8,7 +8,7 @@ public class SpringBootActiviti11Application {
    
 
 	/**spring 主方法   master **/
-	/**我修改1 **/
+	/**我修改2 **/
 	public static void main(String[] args) {
 		SpringApplication.run(SpringBootActiviti11Application.class, args);
 	}
