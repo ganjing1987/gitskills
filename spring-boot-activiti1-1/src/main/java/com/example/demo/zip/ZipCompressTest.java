@@ -22,6 +22,7 @@ public class ZipCompressTest {
 	
 	private File zipFile;  
 	
+	/**ZipCompressTest **/
 	public ZipCompressTest(String pathName){
 		 try {
 			 zipFile = new File(pathName); 
