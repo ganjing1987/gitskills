@@ -6,6 +6,7 @@ import java.io.IOException;
 
 import org.junit.Test;
 
+/** FileOutputStreamTest1**/
 public class FileOutputStreamTest1 {
 
 	@Test
