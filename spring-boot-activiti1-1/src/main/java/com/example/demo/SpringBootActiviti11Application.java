@@ -7,10 +7,9 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class SpringBootActiviti11Application {
    
 
-	/**spring 主方法   master **/
-	/**我修改4 **/
+	/**spring 主方法   master2 **/
 	public static void main(String[] args) {
-		/** 我修改了2 **/
+		
 		SpringApplication.run(SpringBootActiviti11Application.class, args);
 	}
 }
